@@ -33,20 +33,20 @@
 }
 
 .posterImage__title {
-    font-weight: 900;
-    font-size: 4rem;
+    font-weight: 400;
+    font-size: 1.5rem;
     margin-bottom: 0.4rem;
     text-align: left;
     
 }
 
 .posterImage__runtime {
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 
 .posterImage__rating {
-    margin-right: 3rem;
+    margin-right: 1.5rem;
     display: flex;
 }
 
