@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+![work1](https://github.com/parasmani508/Netflix-Clone/assets/113166283/affbe122-cb40-4796-93a9-8a6587e086bb)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
